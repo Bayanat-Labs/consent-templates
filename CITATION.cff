@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or adapt these templates, please cite them as below."
+title: "Bayanat Labs contributor consent templates"
+abstract: "Consent form, contributor agreement, performer release for speech synthesis, privacy notice, cross-border transfer statement and explicit biometric consent for sign-language video, in English and Arabic, for collecting data from consenting adult contributors for open Arabic datasets under Saudi Arabia's Personal Data Protection Law."
+authors:
+  - name: "Bayanat Labs"
+    website: "https://bayanatlabs.com"
+    email: "hello@bayanatlabs.com"
+version: "1.0"
+date-released: "2026-10-15"
+license: CC-BY-4.0
+repository-code: "https://github.com/Bayanat-Labs/consent-templates"
+url: "https://www.bayanatlabs.com/open"
+keywords:
+  - consent
+  - contributor agreement
+  - privacy notice
+  - PDPL
+  - Arabic
+  - speech data
+  - sign language
+  - templates
